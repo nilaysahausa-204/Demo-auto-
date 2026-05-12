@@ -1,0 +1,7 @@
+pyrofork
+tgcrypto
+motor
+pymongo[srv]
+python-dotenv
+flask
+gunicorn
